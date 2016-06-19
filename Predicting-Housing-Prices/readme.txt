@@ -1,0 +1,1 @@
+This folder contains multiple notebooks delving deep into Linear regression. Here I have discussed linear regression with single feature, multiple features, using libraries and implementing gradient descent myself. Various ML diagnostics and performance metrics have also been discussed at length along with befitting visualizations.
